@@ -14,5 +14,5 @@ Check out my repositories for **random programming projects**—mostly for fun!
 
 
 ## 📫 Let's Connect  
--Instagram: [p.rasa.n](https://www.instagram.com/p.rasa.n/)
+-Instagram: [p.rasa.n](https://www.instagram.com/p.rasa.n/)  
 -Discord: prasaning
