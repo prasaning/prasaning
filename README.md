@@ -1,16 +1,21 @@
-## Hi there 👋
+## About Me  
+I'm an aspiring **Pediatrics and Psychology** student, set to attend **Ohio Wesleyan University** after graduating this year. While my main passion lies in understanding the human mind and helping others, I also happen to be **skilled in programming**, particularly in **Python** and **Java**, which I pursue as a hobby.  
 
-<!--
-**prasaning/prasaning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 Interests  
+- Psychology & Human Behavior 🧠  
+- Science & Medicine 🔬  
+- Programming (as a hobby) 💻
 
-Here are some ideas to get you started:
+## 🔧 Tech Skills  
+- **Languages:** Python 🐍 | Java ☕  
+- **Tools & Technologies:** Git, Lamchop, VS Code, IntelliJ  
+- **Fields of Interest:** Scientific Computing, Automation  
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects  
+Check out my repositories for **random programming projects**—mostly for fun!  
+
+
+## 📫 Let's Connect  
+-Instagram: [p.rasa.n](https://www.instagram.com/p.rasa.n/)
+-Discord: prasaning
