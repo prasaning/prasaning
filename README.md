@@ -3,6 +3,6 @@
 - Science & Medicine 🔬  
 - Programming (as a hobby) 💻
 
-## 📫 Let's Connect  
+## 📫 Social Media 
 -Instagram: [p.rasa.n](https://www.instagram.com/p.rasa.n/)  
 -Discord: prasaning
